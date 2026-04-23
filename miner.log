@@ -1,0 +1,13 @@
+[07:21:56] [*] PROFILER -> JOHN DOE | Delay 3.2 detik...
+[07:21:59] response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin%2F+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29 200
+[07:22:00] response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin%2F+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=11&FORM=PERE 200
+[07:22:01] response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin%2F+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=21&FORM=PERE1 200
+[07:22:02] response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin%2F+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=31&FORM=PERE2 200
+[07:22:03] response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin%2F+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=41&FORM=PERE3 200
+[07:22:03] [*] FALLBACK IG -> JOHN DOE | Delay 3.7 detik...
+[07:22:07] response: https://www.bing.com/search?q=site%3Ainstagram.com+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29 200
+[07:22:08] response: https://www.bing.com/search?q=site%3Ainstagram.com+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=11&FORM=PERE 200
+[07:22:09] response: https://www.bing.com/search?q=site%3Ainstagram.com+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=21&FORM=PERE1 200
+[07:22:10] response: https://www.bing.com/search?q=site%3Ainstagram.com+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=31&FORM=PERE2 200
+[07:22:11] response: https://www.bing.com/search?q=site%3Ainstagram.com+%22john+doe%22+%28%22UMM%22+OR+%22Malang%22%29&first=41&FORM=PERE3 200
+[07:22:11] ✅ [CPU: 5.3%] Data John Doe tersimpan! (920/113919)
